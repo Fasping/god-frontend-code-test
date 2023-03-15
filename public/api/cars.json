@@ -4,55 +4,64 @@
       "modelName": "XC90 Recharge", 
       "bodyType": "suv",
       "modelType": "plug-in hybrid",
-      "imageUrl": "/images/xc90_recharge.jpg"
+      "imageUrl": "/images/xc90_recharge.jpg",
+      "description": "The XC90 Recharge is Volvo's flagship SUV, offering luxury and technology in a stylish package. With a plug-in hybrid powertrain, it's both powerful and efficient."
     },
     {
       "id": "xc60-recharge",
       "modelName": "XC60 Recharge", 
       "bodyType": "suv",
       "modelType": "plug-in hybrid",
-      "imageUrl": "/images/xc60_recharge.jpg"
+      "imageUrl": "/images/xc60_recharge.jpg",
+      "description": "The XC60 Recharge is a versatile SUV that combines elegant styling with a spacious interior. It's powered by a plug-in hybrid powertrain for impressive performance and fuel efficiency."
     },
     {
       "id": "xc40-recharge",
       "modelName": "XC40 Recharge", 
       "bodyType": "suv",
       "modelType": "plug-in hybrid",
-      "imageUrl": "/images/xc40_recharge.jpg"
+      "imageUrl": "/images/xc40_recharge.jpg",
+      "description": "The XC40 Recharge is a compact SUV with big personality. It's designed to make urban driving easy and enjoyable, with a plug-in hybrid powertrain for extra efficiency."
     },
     {
       "id": "xc40-bev",
       "modelName": "XC40 Recharge", 
       "bodyType": "suv",
       "modelType": "pure electric",
-      "imageUrl": "/images/xc40_bev.jpg"
+      "imageUrl": "/images/xc40_bev.jpg",
+      "description": "The XC40 Recharge is Volvo's first fully electric vehicle. It offers instant torque and a smooth, quiet ride, all while emitting zero emissions."
     },
     {
       "id": "v90-recharge",
       "modelName": "V90 Recharge", 
       "bodyType": "estate",
       "modelType": "plug-in hybrid",
-      "imageUrl": "/images/v90_recharge.jpg"
+      "imageUrl": "/images/v90_recharge.jpg",
+      "description": "The V90 Recharge is a luxurious estate car that offers exceptional comfort and practicality. It's powered by a plug-in hybrid powertrain for a perfect balance of performance and efficiency."
     },
     {
       "id": "v60-recharge",
       "modelName": "V60 Recharge", 
       "bodyType": "estate",
       "modelType": "plug-in hybrid",
-      "imageUrl": "/images/v60_recharge.jpg"
+      "imageUrl": "/images/v60_recharge.jpg",
+      "description": "The V60 Recharge is a sleek and stylish estate car that's designed to make a statement. With a plug-in hybrid powertrain, it's both fun to drive and fuel efficient."
     },
     {
       "id": "s90-recharge",
       "modelName": "S90 Recharge", 
       "bodyType": "sedan",
       "modelType": "plug-in hybrid",
-      "imageUrl": "/images/s90_recharge.jpg"
+      "imageUrl": "/images/s90_recharge.jpg",
+      "description": "The S90 Recharge is a sophisticated sedan that combines cutting-edge technology with refined luxury. With a plug-in hybrid powertrain, it's both powerful and efficient."
     },
     {
       "id": "s60-recharge",
       "modelName": "S60 Recharge", 
       "bodyType": "sedan",
       "modelType": "plug-in hybrid",
-      "imageUrl": "/images/s60_recharge.jpg"
+      "imageUrl": "/images/s60_recharge.jpg",
+      "description": "The S60 Recharge is a dynamic and sporty sedan that's designed for driving pleasure. "
+
     }
 ]
